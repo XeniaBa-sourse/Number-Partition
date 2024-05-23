@@ -15,3 +15,6 @@ data.py - представление данных в виде PandasDataFrame
 Partitions - реализация класса для вычислений
 for_plot - отрисовка графиков
 factorization - представление частного в виде произведения простых чисел, разложенных по степеням
+
+
+Если Анализ.ipynb не открывается перейти по ссылке https://colab.research.google.com/drive/1Yci04OeAHlXphkVa76e6b45d9VagYS6v#scrollTo=Z5iYrqbtBR_L
